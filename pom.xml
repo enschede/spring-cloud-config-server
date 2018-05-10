@@ -7,9 +7,11 @@
     <groupId>nl.marcenschede.tests</groupId>
     <artifactId>spring-cloud-configserver</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
     <modules>
         <module>limits-service</module>
+        <module>spring-cloud-configuration-service</module>
     </modules>
 
 </project>
